@@ -23,9 +23,13 @@ a:hover{
 	background-color:white;
 	
 }
-#mainContent{
+#linkContent{
 	margin: 0 auto;
 	width: 500px;   
+}
+#mainContent{
+	margin: 0 auto;
+	width: 90%;  
 }
 #selfPicture{
 	width:400px;
