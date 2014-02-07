@@ -1,0 +1,54 @@
+body {
+	font-family: courier;
+	background-color: black;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-left:0px;
+	
+}
+
+h2{
+	font-size:40px;
+	color:green;
+}
+
+a{
+	color:inherit;
+	font-style: inherit;
+	text-decoration: inherit;
+}
+
+a:hover{
+	background-color:white;
+	
+}
+#mainContent{
+	margin: 0 auto;
+	width: 500px;   
+}
+#selfPicture{
+	width:400px;
+	margin:0 auto;
+}
+
+#headerBar{
+	width: 100%;
+
+	margin-left: 0px;
+
+	height:100px;
+	background-color:green;
+
+}
+#headerBar h2{
+	color:black;
+	font-size: 80px;
+	position:absolute;
+	top:-60px;
+	left:50px;
+}
+h3{
+	color:green;
+	font-size:30px;
+}
